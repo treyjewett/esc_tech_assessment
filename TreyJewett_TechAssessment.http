@@ -1,0 +1,6 @@
+@TreyJewett_TechAssessment_HostAddress = http://localhost:5254
+
+GET {{TreyJewett_TechAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
